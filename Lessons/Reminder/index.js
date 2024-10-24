@@ -13,3 +13,18 @@ let yourName = yourFirstname + " " + yourLastname; /* Permet de concatener une c
 
 console.log(yourName);
 
+let firstHero = { /* Ceci est un objet */
+    firstname: "Bruce",
+    lastname: "Wayne",
+    age: 70,
+    favoriteColor: "black",
+    hobby: "night walk",
+}
+
+firstHero.favoriteCar = "Batmobile" /* Permet d'ajouter une nouvelle variable à l'objet */
+
+console.log(firstHero)
+
+const name = firstHero.firstname /* Permet de placer la variable d'un objet dans une constante */
+
+console.log(name)
