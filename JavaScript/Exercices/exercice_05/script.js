@@ -6,7 +6,7 @@ let score = 0
 let choixDuJoueur = ""
 
 while (choixDuJoueur !== "mots" && choixDuJoueur !== "phrases") {
-    choixDuJoueur = prompt("Faites votre choix pour la difficulté du jeu : entrer mots pour choisir la liste de mots ou entrer listes si vous préférer une difficulté accrue. ")
+    choixDuJoueur = prompt("Faites votre choix pour la difficulté du jeu : entrer mots pour choisir la liste de mots ou entrer phrases si vous préférer une difficulté accrue. ")
 }
 
 if (choixDuJoueur === "mots") {
