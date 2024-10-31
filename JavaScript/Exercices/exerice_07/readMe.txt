@@ -1,0 +1,22 @@
+Dans cet exercice, je vous propose de récupérer plusieurs éléments dont nous aurons besoin dans le chapitre suivant, lorsque nous procéderons à la modification de la page (voir le dossier : base codes).
+
+
+Dans le fichier main.js :
+
+Sélectionnez avec la méthode getElementById : 
+
+l’input dans lequel le joueur va écrire son texte ; 
+
+le bouton de validation.
+
+Sélectionnez avec la méthode querySelector : 
+
+l’endroit où le mot proposé sera affiché ;
+
+l’endroit où le score sera affiché. 
+
+Sélectionnez avec la méthode querySelectorAll : 
+
+les boutons radio de choix. 
+
+N’oubliez pas de vérifier que la sélection est correcte à chaque fois, en utilisant un console.log !
