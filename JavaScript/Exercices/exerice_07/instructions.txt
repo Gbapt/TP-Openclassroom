@@ -1,3 +1,5 @@
+INSTRUCTIONS :
+
 Dans cet exercice, je vous propose de récupérer plusieurs éléments dont nous aurons besoin dans le chapitre suivant, lorsque nous procéderons à la modification de la page (voir le dossier : base codes).
 
 
